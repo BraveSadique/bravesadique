@@ -20,7 +20,11 @@ Developing 👉 Designing 👉 Deploying 🤜 Maintaining is my favourite stuff�
 📡 Latest Youtube update
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
+- [How to know your React version through Visual Studio Code | Easy steps in 2022](https://www.youtube.com/watch?v=rNEYrkG_rPo)
+- [How to add emoji in vscode? | Add emojis to your code like a pro!!!](https://www.youtube.com/watch?v=FbYAIqwUggY)
+- [Android Studio Can&#39;t Install App Guaranteed Solution 2021](https://www.youtube.com/watch?v=Ui8b6MFYglA)
+- [SD Card error - Tap to fix!!!!     -100% solution without format](https://www.youtube.com/watch?v=LreQoJJSC74)
+- [Give your college review and earn rs 100 paytm cashback](https://www.youtube.com/watch?v=Pmx2LWO1OmI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️  [...more youtube videos]https://www.youtube.com/channel/UCfbjKFtXxS1V9VwMJbSLF_w
