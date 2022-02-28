@@ -1,7 +1,9 @@
 ### Hi there 👋, I am Sadique Akhtar ☺️❤️
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCfbjKFtXxS1V9VwMJbSLF_w?style=social">
 <img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/SPXs_vhuCSM?style=social">
-A Computer Science Undergraduate willing to persue carrer in Web-Development field. Developing 👉 Designing 👉 Deploying 🤜 Maintaining is my favourite stuff😻.
+<b>A Computer Science Undergraduate willing to persue carrer in Web-Development field. </b> <hr><br>
+Developing 👉 Designing 👉 Deploying 🤜 Maintaining is my favourite stuff😻.
+<hr>
 
 
 
