@@ -5,8 +5,15 @@
 Developing 👉 Designing 👉 Deploying 🤜 Maintaining is my favourite stuff😻.
 <hr>
 
-
-
+🧰 Toolbox
+<div style="display:flex; flex-direction:row;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?short_path=7975261" alt="java script logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="java script logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="java script logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java script logo" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
+</div>
 
 <!--
 **BraveSadique/bravesadique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
