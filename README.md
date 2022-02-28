@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Sadique Akhtar ☺️❤️
+https://img.shields.io/youtube/channel/views/UCfbjKFtXxS1V9VwMJbSLF_w?style=social
 
 <!--
 **BraveSadique/bravesadique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
