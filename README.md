@@ -27,7 +27,7 @@ Developing 👉 Designing 👉 Deploying 🤜 Maintaining is my favourite stuff�
 - [Give your college review and earn rs 100 paytm cashback](https://www.youtube.com/watch?v=Pmx2LWO1OmI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶️  [...more youtube videos]https://www.youtube.com/channel/UCfbjKFtXxS1V9VwMJbSLF_w
+▶️  [...more youtube videos](https://www.youtube.com/c/OVERSMART)
 
 
 ---
